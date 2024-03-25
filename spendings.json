@@ -1,0 +1,10 @@
+{
+    "spendings": [{
+        "amount": 1,
+        "month": 1,
+        "year": 3,
+        "category": "d",
+        "day": 2
+    }],
+    "categories": ["d"]
+}

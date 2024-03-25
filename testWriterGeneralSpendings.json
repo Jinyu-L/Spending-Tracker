@@ -1,0 +1,22 @@
+{
+    "spendings": [
+        {
+            "amount": 1000,
+            "month": 2,
+            "year": 2022,
+            "category": "Utility",
+            "day": 1
+        },
+        {
+            "amount": 999,
+            "month": 12,
+            "year": 2023,
+            "category": "Food",
+            "day": 11
+        }
+    ],
+    "categories": [
+        "Utility",
+        "Food"
+    ]
+}
